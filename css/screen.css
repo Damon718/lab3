@@ -263,6 +263,7 @@ input {
   padding: 8px;
   margin-bottom: 15px;
   box-sizing: border-box;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 #submit {
